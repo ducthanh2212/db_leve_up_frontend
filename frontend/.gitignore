@@ -1,3 +1,4 @@
 # Thêm vào file .gitignore trong thư mục frontend/
 .env.production
 .env.local
+node_modules/
